@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshith ms</h1>
-<h3 align="center">A passionate frontend developer, Ethical Hacker, Designer,Dancer from India</h3>
+<h3 align="center">A passionate frontend developer, Ethical Hacker, Designer, Dancer from India</h3>
 
 - 🌱 I’m currently learning **Python, solidity, ethereum**
 
