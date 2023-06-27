@@ -1,0 +1,15 @@
+# Table of contents
+
+* [🌏 Journeying Through the World of Ethical Hacking with Cipher-ops](README.md)
+* [Let's Start](lets-start/README.md)
+  * [🤩 Embarking on Your Hacking Journey: A Guide for Beginners](lets-start/embarking-on-your-hacking-journey-a-guide-for-beginners/README.md)
+    * [🥳 Exploring Top Platforms and Websites for Hacking Practice and Learning](lets-start/embarking-on-your-hacking-journey-a-guide-for-beginners/exploring-top-platforms-and-websites-for-hacking-practice-and-learning.md)
+
+## Overview
+
+* [ℹ Recon Tips](overview/recon-tips/README.md)
+  * [Best Recon Technique For Active Subdomain Enumeration](overview/recon-tips/best-recon-technique-for-active-subdomain-enumeration.md)
+  * [Mastering the Art of Information Gathering](overview/recon-tips/mastering-the-art-of-information-gathering.md)
+  * [One Liner from Awesome bug bounty](overview/recon-tips/one-liner-from-awesome-bug-bounty.md)
+  * [Resources](overview/recon-tips/resources/README.md)
+    * [Introducing 20 web-application hacking tools🔥🤩🌵](overview/recon-tips/resources/introducing-20-web-application-hacking-tools.md)
