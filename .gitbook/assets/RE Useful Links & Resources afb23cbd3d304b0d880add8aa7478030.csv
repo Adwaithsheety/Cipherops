@@ -1,0 +1,38 @@
+﻿Name,Created,Link,Tags
+Stack Image Representation,"June 27, 2023 11:39 AM",https://i.stack.imgur.com/Lsjhw.jpg,theoretical
+https://godbolt.org/ - Code ↔ Assembly,"June 27, 2023 11:39 AM",https://godbolt.org/,practical
+https://onlinedisassembler.com/static/home/index.html,"June 27, 2023 11:39 AM",https://onlinedisassembler.com/static/home/index.html,practical
+https://myexperiments.io/exploit-basic-buffer-overflow.html - Exploit a basic buffer overflow,"June 27, 2023 11:39 AM",https://myexperiments.io/exploit-basic-buffer-overflow.html,"practical, theoretical"
+x86 Assembly Crash Course → YouTube,"June 27, 2023 11:39 AM",https://www.youtube.com/watch?v=75gBFiFtAb8,theoretical
+"BUFFER OVERFLOW 7
+The Stack Operation","June 27, 2023 11:39 AM",https://www.tenouk.com/Bufferoverflowc/Bufferoverflow3.html,theoretical
+FLAGS register → Wikipedia,"June 27, 2023 11:39 AM",https://en.wikipedia.org/wiki/FLAGS_register,theoretical
+Quick Guide to Assembly in 161 - Berkeley,"June 27, 2023 11:39 AM",https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf,theoretical
+Understanding C by learning assembly,"June 27, 2023 11:39 AM",https://www.recurse.com/blog/7-understanding-c-by-learning-assembly,theoretical
+Nightmare - intro to binary exploitation / reverse engineering course,"June 27, 2023 11:39 AM",https://guyinatuxedo.github.io/index.html,"practical, theoretical"
+Reverse Engineering for Beginners - Book,"June 27, 2023 11:39 AM",https://beginners.re,theoretical
+Wargames - These labs range from simple concepts to complicated exploits.,"June 27, 2023 11:39 AM",https://wargames.ret2.systems/levels,practical
+Z0FCourse_ReverseEngineering,"June 27, 2023 11:39 AM",https://github.com/0xZ0F/Z0FCourse_ReverseEngineering,theoretical
+A really quick explanation of stack frames and frame pointers,"June 27, 2023 11:39 AM",https://www.cs.rutgers.edu/~pxk/419/notes/frames.html,theoretical
+AT&T Syntax versus Intel Syntax → mit.edu,"June 27, 2023 11:39 AM",http://web.mit.edu/rhel-doc/3/rhel-as-en-3/i386-syntax.html,theoretical
+X86 Assembly/GAS Syntax → Wikibooks,"June 27, 2023 11:39 AM",https://en.wikibooks.org/wiki/X86_Assembly/GAS_Syntax,theoretical
+x86 and amd64 instruction reference,"June 27, 2023 11:39 AM",https://www.felixcloutier.com/x86/index.html,theoretical
+A journey into Radare 2 – Part 1: Simple crackme,"June 27, 2023 11:39 AM",https://www.megabeets.net/a-journey-into-radare-2-part-1/,"practical, r2, theoretical"
+A Crash Course in x86 Assembly for Reverse Engineers,"June 27, 2023 11:39 AM",https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf,theoretical
+https://www.radare.org/get/THC2018.pdf2,"June 27, 2023 11:39 AM",https://www.radare.org,r2
+http://microcorruption.com/ (Down?),"June 27, 2023 11:39 AM",microcorruption.com,"practical, theoretical"
+https://drive.google.com/file/d/1maTcdquyqnZCIcJO7jLtt4cNHuRQuK4x/viewryHackMe x86-64 Assembly Accompanying material,"June 27, 2023 11:39 AM",https://drive.google.com/file/d/1maTcdquyqnZCIcJO7jLtt4cNHuRQuK4x/view,theoretical
+https://pwnable.xyz/ - Here you will find pwnables for beginners,"June 27, 2023 11:39 AM",https://pwnable.xyz/,practical
+https://crackmes.one/ - Download crackmes to learn,"June 27, 2023 11:39 AM",https://crackmes.one/,practical
+Reverse Engineering with Radare 2 - Udemy Course,"June 27, 2023 11:39 AM",https://www.udemy.com/course/re-radare2/,r2
+"""How a CPU works""","June 27, 2023 11:39 AM",https://www.youtube.com/watch?v=cNN_tTXABUA,
+Wikipedia - CPUhttps://github.com/LordNoteworthy/cpu-internals,"June 27, 2023 11:39 AM",https://github.com/LordNoteworthy/cpu-internals,
+Binary Exploitation / Memory Corruption by LiveOverflow,"June 27, 2023 11:39 AM",https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN,theoretical
+Introduction To Reverse Engineering With Radare2,"June 27, 2023 11:39 AM",https://www.youtube.com/watch?v=LAkYW5ixvhg,theoretical
+Pwnadventure,"June 27, 2023 11:39 AM",https://sourcery.pwnadventure.com/,practical
+CPU Online Model,"June 27, 2023 11:39 AM",http://www.buthowdoitknow.com/but_how_do_it_know_cpu_model.html,
+"Understanding the differences between 8bit, 16bit, 32bit, and 64bit -- Arrow Tech Trivia","June 27, 2023 11:39 AM",https://www.youtube.com/watch?v=_SkpnG571z8,theoretical
+Cutter,"June 27, 2023 11:39 AM",https://cutter.re/,r2
+Assembly’s Perspective,"June 27, 2023 11:39 AM",https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/,theoretical
+Ben Eater - Youtube,"June 27, 2023 11:39 AM",https://www.youtube.com/c/BenEater/videos,
+https://lobste.rs/t/reversing,"June 27, 2023 11:39 AM",https://lobste.rs/t/reversing,theoretical

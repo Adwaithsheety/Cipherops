@@ -19,4 +19,8 @@
 
 ***
 
+* [Damn Vulnerabilities List Lab](damn-vulnerabilities-list-lab.md)
 * [PORT SCANNING](port-scanning.md)
+* [Offensive virtual machine's](offensive-virtual-machines.md)
+* [Essential Linux Commands](essential-linux-commands.md)
+* [osint](osint.md)
