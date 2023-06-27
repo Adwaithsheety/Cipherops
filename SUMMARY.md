@@ -19,8 +19,11 @@
 
 ***
 
+* [OSINT tools collection](osint-tools-collection.md)
 * [Damn Vulnerabilities List Lab](damn-vulnerabilities-list-lab.md)
 * [PORT SCANNING](port-scanning.md)
 * [Offensive virtual machine's](offensive-virtual-machines.md)
 * [Essential Linux Commands](essential-linux-commands.md)
-* [osint](osint.md)
+* [30 cybersecurity search engines](30-cybersecurity-search-engines.md)
+* [cybersecurity YouTube channels](cybersecurity-youtube-channels.md)
+* [Try-Hack-me Roadmap](try-hack-me-roadmap.md)
