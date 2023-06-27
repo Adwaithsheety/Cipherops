@@ -1,9 +1,10 @@
 # Table of contents
 
-* [🌏 Journeying Through the World of Ethical Hacking with Cipher-ops](README.md)
+* [😎 Cipherops](README.md)
+* [🤩 Embarking on Your Hacking Journey: A Guide for Beginners](embarking-on-your-hacking-journey-a-guide-for-beginners.md)
+* [🌏 Journeying Through the World of Ethical Hacking with Cipher-ops](journeying-through-the-world-of-ethical-hacking-with-cipher-ops.md)
 * [Let's Start](lets-start/README.md)
-  * [🤩 Embarking on Your Hacking Journey: A Guide for Beginners](lets-start/embarking-on-your-hacking-journey-a-guide-for-beginners/README.md)
-    * [🥳 Exploring Top Platforms and Websites for Hacking Practice and Learning](lets-start/embarking-on-your-hacking-journey-a-guide-for-beginners/exploring-top-platforms-and-websites-for-hacking-practice-and-learning.md)
+  * [🥳 Exploring Top Platforms and Websites for Hacking Practice and Learning](lets-start/exploring-top-platforms-and-websites-for-hacking-practice-and-learning.md)
 
 ## Overview
 
