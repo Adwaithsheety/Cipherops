@@ -19,7 +19,7 @@
 
 ***
 
-* [OSINT tools collection](osint-tools-collection.md)
+* [Subdomain Takeover Resources](subdomain-takeover-resources.md)
 * [Damn Vulnerabilities List Lab](damn-vulnerabilities-list-lab.md)
 * [PORT SCANNING](port-scanning.md)
 * [Offensive virtual machine's](offensive-virtual-machines.md)
@@ -27,3 +27,4 @@
 * [30 cybersecurity search engines](30-cybersecurity-search-engines.md)
 * [cybersecurity YouTube channels](cybersecurity-youtube-channels.md)
 * [Try-Hack-me Roadmap](try-hack-me-roadmap.md)
+* [OSINT](osint.md)

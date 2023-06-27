@@ -209,4 +209,6 @@ Here is a list of essential Linux commands for various operations:
 * `yes > /dev/null &: Use this command to push a system to its limit.`
 * `:(){ :|:& };::: A fork bomb – handle with care. Do not run this command on a production system.`
 
+{% embed url="https://www.commandlinefu.com/commands/browse" %}
+
 Remember, you can always use the `man` command (e.g., `man ls`) to get more information about each command.
