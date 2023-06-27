@@ -1,8 +1,16 @@
 # 😎 Cipherops
 
+<div align="left">
+
+<figure><img src=".gitbook/assets/image (7).png" alt="Cipherops.tech" width="188"><figcaption></figcaption></figure>
+
+</div>
+
 ### <mark style="color:green;">Who We Are</mark>: Introducing [CipherOps](https://cipherops.tech/)
 
 At CipherOps, we are a team of dedicated professionals passionate about cybersecurity and protecting your digital assets. With a strong focus on providing comprehensive and reliable security solutions, we strive to stay ahead of the ever-evolving threats in the digital landscape.
+
+
 
 #### <mark style="color:green;">Our Mission</mark>
 

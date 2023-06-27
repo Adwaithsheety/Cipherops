@@ -4,12 +4,12 @@ description: 'NOTE: This is just a information, for further reading do check the
 
 # Mastering the Art of Information Gathering
 
-### Introduction
+### <mark style="color:green;">Introduction</mark>
 
 * Article source: [Recon Everything](https://infosecwriteups.com/recon-everything-48aafbb8987)
 * Key focus: Comprehensive notes on mastering the art of information gathering through reconnaissance techniques.
 
-### Table of Contents:
+### <mark style="color:green;">Table of Contents</mark>:
 
 1. What is Reconnaissance?
 2. Passive Reconnaissance Techniques
@@ -45,7 +45,7 @@ description: 'NOTE: This is just a information, for further reading do check the
    * Documentation and Reporting
 9. Conclusion
 
-### Summary and Key Takeaways:
+### <mark style="color:green;">Summary and Key Takeaways:</mark>
 
 * Reconnaissance is the process of gathering information to gain insight into a target system or organization.
 * Passive techniques involve collecting publicly available data without directly interacting with the target.
@@ -57,7 +57,7 @@ description: 'NOTE: This is just a information, for further reading do check the
 * Adhering to legal and ethical guidelines is crucial during reconnaissance activities.
 * A structured methodology and proper documentation enhance the effectiveness of reconnaissance efforts.
 
-### Conclusion
+### <mark style="color:green;">Conclusion</mark>
 
 Reconnaissance serves as the foundation for successful information gathering in the field of cybersecurity. By understanding the various techniques and tools available, security professionals can gain valuable insights into their targets. However, it is essential to remember the importance of legal and ethical considerations when conducting reconnaissance activities. With a comprehensive approach and proper documentation, the art of reconnaissance can be mastered, leading to more effective cybersecurity strategies.
 

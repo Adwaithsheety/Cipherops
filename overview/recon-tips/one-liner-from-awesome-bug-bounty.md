@@ -1,12 +1,12 @@
 # One Liner from Awesome bug bounty
 
-## Awesome One-liner Bug Bounty [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/dwisiswant0/awesome-oneliner-bugbounty/tree/master) <a href="#https-github.com-dwisiswant0-awesome-oneliner-bugbounty-tree-master" id="https-github.com-dwisiswant0-awesome-oneliner-bugbounty-tree-master"></a>
+## <mark style="color:green;">Awesome One-liner Bug Bounty</mark> [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/dwisiswant0/awesome-oneliner-bugbounty/tree/master) <a href="#https-github.com-dwisiswant0-awesome-oneliner-bugbounty-tree-master" id="https-github.com-dwisiswant0-awesome-oneliner-bugbounty-tree-master"></a>
 
 > A collection of awesome one-liner scripts especially for bug bounty.
 
 This repository stores and houses various one-liner for bug bounty tips provided by me as well as contributed by the community. Your contributions and suggestions are heartily♥ welcome.
 
-### Definitions
+### <mark style="color:green;">Definitions</mark>
 
 This section defines specific terms or placeholders that are used throughout one-line command/scripts.
 
