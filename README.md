@@ -1,7 +1,7 @@
 # 🌏 Journeying Through the World of Ethical Hacking with Cipher-ops
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+Who we are Check out our [cipherops.tech](https://cipherops.tech/) a leading cybersecurity company focusing on VAPT and more.
 {% endhint %}
 
 ## <mark style="color:green;">Overview</mark>
