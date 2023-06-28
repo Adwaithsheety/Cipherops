@@ -28,3 +28,8 @@
 * [cybersecurity YouTube channels](cybersecurity-youtube-channels.md)
 * [Try-Hack-me Roadmap](try-hack-me-roadmap.md)
 * [OSINT](osint.md)
+* [Screenshots](screenshots.md)
+* [Technology Identification](technology-identification.md)
+* [Content Discovery Tools](content-discovery-tools.md)
+* [Link Extraction Tools](link-extraction-tools.md)
+* [Parameter and web fuzzing tools](parameter-and-web-fuzzing-tools.md)

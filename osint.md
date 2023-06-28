@@ -31,9 +31,7 @@ Osint Lists and collections.
 - [Ocearch Shark Tracker](https://www.ocearch.org/tracker): Click on a shark on the world map and find out its name, size, and travel log
 - [Surging Seas: Risk Zone Map](https://riskfinder.climatecentral.org): Map of points with a risk of significant sea level rise in the event of melting glaciers
 - [USA Fishermap](https://www.usafishermap.org): Detailed map of freshwater bodies in the USA, including depth at different points
-- [Mind
-
-at.org](https://www.mindat.org): Mineral maps for different countries
+- [Mindat.org](https://www.mindat.org): Mineral maps for different countries
 - [Ventusky.com](https://www.ventusky.com): Collection of weather maps (wind, rain, temperature, air pressure, humidity, waves, etc.)
 - [Wunderground](https://www.wunderground.com): Weather history data
 - [Rain Alarm](https://www.rain-alarm.com): Shows where it is raining on the map and provides notifications of approaching rain
