@@ -33,3 +33,10 @@
 * [Content Discovery Tools](content-discovery-tools.md)
 * [Link Extraction Tools](link-extraction-tools.md)
 * [Parameter and web fuzzing tools](parameter-and-web-fuzzing-tools.md)
+
+## 🥲 Exploitation
+
+* [Exploitation Tools Categorized by Vulnerability Type](exploitation/exploitation-tools-categorized-by-vulnerability-type.md)
+* [File Inclusion,CSRF Injection,Directory Traversal](exploitation/file-inclusion-csrf-injection-directory-traversal.md)
+* [GraphQL Injection,Insecure Deserialization,Header Injection](exploitation/graphql-injection-insecure-deserialization-header-injection.md)
+* [Insecure Direct Object References, Open Redirect, Request Smuggling](exploitation/insecure-direct-object-references-open-redirect-request-smuggling.md)

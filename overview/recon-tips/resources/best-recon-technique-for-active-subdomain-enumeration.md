@@ -41,7 +41,7 @@ More About this Tool [here](https://medium.com/@Asm0d3us/weaponizing-favicon-ico
 command: cat subdomains.txt | dnsx -a -resp-only | nrich -
 ```
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt="Using shodan Search Engine to detect site that have same favicon hashed"><figcaption><p>use a nrich tool to check out the subdomains </p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt="Using shodan Search Engine to detect site that have same favicon hashed"><figcaption><p>use a nrich tool to check out the subdomains </p></figcaption></figure>
 
 <mark style="color:green;">Technique 4:</mark> Choosing the Right Target When dealing with applications that have numerous subdomains, selecting the right subdomain to start hunting can be challenging. Utilize the interesting subs gf pattern list to identify interesting subdomains worth investigating. Execute the following command:
 
