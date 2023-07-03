@@ -40,3 +40,8 @@
 * [File Inclusion,CSRF Injection,Directory Traversal](exploitation/file-inclusion-csrf-injection-directory-traversal.md)
 * [GraphQL Injection,Insecure Deserialization,Header Injection](exploitation/graphql-injection-insecure-deserialization-header-injection.md)
 * [Insecure Direct Object References, Open Redirect, Request Smuggling](exploitation/insecure-direct-object-references-open-redirect-request-smuggling.md)
+
+## 🐦 Twitter Threads
+
+* [Thread by @ArchAngelDDay on Thread Reader App](twitter-threads/thread-by-archangeldday-on-thread-reader-app.md)
+* [Page 1](twitter-threads/page-1.md)

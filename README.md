@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<figure><img src=".gitbook/assets/image (7).png" alt="Cipherops.tech" width="188"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt="Cipherops.tech" width="188"><figcaption></figcaption></figure>
 
 </div>
 
