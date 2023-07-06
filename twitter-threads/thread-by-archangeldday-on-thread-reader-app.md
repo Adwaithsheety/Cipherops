@@ -127,6 +127,8 @@
 99/ Programs are your friend, not your adversary. Work with them\
 100/ The platform is your friend, not your adversary. Work with them
 
+profile: [@ArchAngelDDay](https://twitter.com/ArchAngelDDay?t=F23nBECLFVoJEgJKoXpjfA\&s=09)
+
 • • •
 
 Missing some Tweet in this thread? You can try to [force a refresh](broken-reference)
