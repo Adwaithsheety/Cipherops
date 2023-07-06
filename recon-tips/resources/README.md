@@ -19,7 +19,7 @@
 * [SQLi](https://github.com/HolyBugx/HolyTips/tree/main/Resources#SQLi)
 * [Misc](https://github.com/HolyBugx/HolyTips/tree/main/Resources#Misc)
 
-***
+
 
 ### <mark style="color:green;">Starting-Out</mark>
 
@@ -29,7 +29,7 @@
 * [OWASP Top 10 API Training](https://application.security/free/owasp-top-10-API)
 * [Web Security Course](https://web.stanford.edu/class/cs253/)
 
-***
+
 
 ### <mark style="color:green;">Books</mark>
 
@@ -40,7 +40,7 @@
 * [The Hacker Playbook 2](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B01072WJZE)
 * [The Hacker Playbook 3](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing-ebook/dp/B07CSPFYZ2)
 
-***
+
 
 ### <mark style="color:green;">Blogs</mark>
 
@@ -52,7 +52,7 @@
 * [Patrik Hudak](https://0xpatrik.com/)
 * [Honoki](https://honoki.net/)
 
-***
+
 
 ### <mark style="color:green;">Training-Platforms</mark>
 
@@ -64,7 +64,7 @@
 * [PicoCTF](https://picoctf.org)
 * [GoogleCTF](https://capturetheflag.withgoogle.com)
 
-***
+
 
 ### <mark style="color:green;">Web-Security</mark>
 
@@ -78,7 +78,7 @@
 * [How to Hunt Bugs in SAML; a Methodology - Part III](https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/)
 * [SAML Attack Surface](https://github.com/kelbyludwig/saml-attack-surface)
 
-***
+
 
 ### <mark style="color:green;">Recon</mark>
 
@@ -89,7 +89,7 @@
 * [The Best Bug Bounty Recon Methodology](https://securib.ee/beelog/the-best-bug-bounty-recon-methodology/)
 * [The Art of Subdomain Enumeration](https://appsecco.com/books/subdomain-enumeration/)
 
-***
+
 
 ### <mark style="color:green;">XSS</mark>
 
@@ -102,7 +102,7 @@
 * [XSS while logging using Google](https://hackerone.com/reports/691611)
 * [Stored XSS in RDoc wiki pages](https://hackerone.com/reports/662287)
 
-***
+
 
 ### <mark style="color:green;">CSR</mark>F
 
@@ -115,7 +115,7 @@
 * [Media deletion CSRF vulnerability on Instagram](https://blog.darabi.me/2019/12/instagram-delete-media-csrf.html)
 * [Facebook CSRF protection bypass which leads to Account Takeover](https://ysamm.com/?p=185)
 
-***
+
 
 ### <mark style="color:green;">IDOR</mark>
 
@@ -128,7 +128,7 @@
 * [How I pwned a company using IDOR and Blind XSS](https://www.ansariosama.com/2017/11/how-i-pwned-company-using-idor-blind-xss.html)
 * [Disclose Private Dashboard Chart's name and data in Facebook Analytics](https://bugreader.com/jubabaghdad@disclose-private-dashboard-charts-name-and-data-in-facebook-analytics-184)
 
-***
+
 
 ### <mark style="color:green;">Open-Redirect</mark>
 
@@ -142,7 +142,7 @@
 * [Airbnb chaining third party open redirect into SSRF via liveperson chat](https://buer.haus/2017/03/09/airbnb-chaining-third-party-open-redirect-into-server-side-request-forgery-ssrf-via-liveperson-chat/)
 * [Oauth authentication bypass on airbnb acquistion using wierd 1 char open redirect](https://xpoc.pro/oauth-authentication-bypass-on-airbnb-acquisition-using-weird-1-char-open-redirect/)
 
-***
+
 
 ### <mark style="color:green;">Race-Condition</mark>
 
@@ -155,7 +155,7 @@
 * [Race Condition in account survey](https://hackerone.com/reports/165570)
 * [Race Condition at create new Location](https://hackerone.com/reports/413759)
 
-***
+
 
 ### <mark style="color:green;">Subdomain-Takeover</mark>
 
@@ -168,7 +168,7 @@
 * [Subdomain Takeover on blog.greenhouse.io pointing to Hubspot](https://hackerone.com/reports/38007)
 * [Subdomain Takeover on openapi.starbucks.com](https://hackerone.com/reports/241503)
 
-***
+
 
 ### <mark style="color:green;">SSRF</mark>
 
@@ -181,7 +181,7 @@
 * [31k$ SSRF in Google Cloud Monitoring led to metadata exposure](https://nechudav.blogspot.com/2020/11/31k-ssrf-in-google-cloud-monitoring.html)
 * [How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](http://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
 
-***
+
 
 ### <mark style="color:green;">XXE</mark>
 
@@ -194,7 +194,7 @@
 * [LFI and SSRF via XXE in emblem editor](https://hackerone.com/reports/347139)
 * [Non-production Open Database In Combination With XXE Leads To SSRF](https://hackerone.com/reports/742808)
 
-***
+
 
 ### <mark style="color:green;">SQLi</mark>
 
