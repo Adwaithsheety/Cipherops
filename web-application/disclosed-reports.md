@@ -1,4 +1,4 @@
-# Resources
+# Disclosed Reports 📝
 
 ## <mark style="color:green;">**Bug Bounty Resources & Disclosed Reports: A Valuable Collection of Insights 📝**</mark>
 

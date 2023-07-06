@@ -19,7 +19,7 @@ Command: ffuf -u “https://FUZZ.target.com" -w <path_to_wordlist> -mc 200,301,3
 Command: altdns -i hackerone.txt -o data_output -r -s final.txt -w words.txt
 ```
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt="Active Subdomain Enumeration Using FFUF"><figcaption><p>Active Subdomain Enumeration Using FFUF</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="Active Subdomain Enumeration Using FFUF"><figcaption><p>Active Subdomain Enumeration Using FFUF</p></figcaption></figure>
 
 <mark style="color:green;">Technique 2:</mark> Favicon Hashes Favicons, the icons representing your website, possess unique hash values that can aid in discovering domains sharing the same hash function. Use the FavFreak tool to calculate favicon hashes. Execute the following command:
 
@@ -27,7 +27,7 @@ Command: altdns -i hackerone.txt -o data_output -r -s final.txt -w words.txt
 Command: cat urls.txt | python3 favfreak.py
 ```
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="Favicon hash detecting using FavFreak"><figcaption><p>Favicon hash detecting using FavFreak</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="Favicon hash detecting using FavFreak"><figcaption><p>Favicon hash detecting using FavFreak</p></figcaption></figure>
 
 Once the hash is calculated, you can use the same on internet search engines such as **shodan** to get the mass websites.
 
@@ -41,7 +41,7 @@ More About this Tool [here](https://medium.com/@Asm0d3us/weaponizing-favicon-ico
 command: cat subdomains.txt | dnsx -a -resp-only | nrich -
 ```
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="Using shodan Search Engine to detect site that have same favicon hashed"><figcaption><p>use a nrich tool to check out the subdomains </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="Using shodan Search Engine to detect site that have same favicon hashed"><figcaption><p>use a nrich tool to check out the subdomains </p></figcaption></figure>
 
 <mark style="color:green;">Technique 4:</mark> Choosing the Right Target When dealing with applications that have numerous subdomains, selecting the right subdomain to start hunting can be challenging. Utilize the interesting subs gf pattern list to identify interesting subdomains worth investigating. Execute the following command:
 
@@ -67,7 +67,7 @@ cat subdoma.txt | gf interestingsubs
 Command: cat dorks.txt | uncover
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>uncover tool link <a href="https://github.com/projectdiscovery/uncover">https://github.com/projectdiscovery/uncover</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>uncover tool link <a href="https://github.com/projectdiscovery/uncover">https://github.com/projectdiscovery/uncover</a></p></figcaption></figure>
 
 
 
@@ -85,6 +85,6 @@ Command: meg paths.txt hosts.txt output
 Command: naabu -host target.com
 ```
 
-<figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Finding open ports and service running using naabu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Finding open ports and service running using naabu</p></figcaption></figure>
 
 :clap:Thank you for taking the time to explore these amazing reconnaissance techniques. :smile:We hope you found this blog informative and useful in your endeavors.
