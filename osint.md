@@ -1,4 +1,4 @@
-# OSINT
+# 👣 OSINT
 
 ```markdown
 Osint Lists and collections.
