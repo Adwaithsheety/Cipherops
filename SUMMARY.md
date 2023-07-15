@@ -16,7 +16,9 @@
   * [Offensive virtual machine's](overview/resourses/offensive-virtual-machines.md)
   * [cybersecurity YouTube channels](overview/resourses/cybersecurity-youtube-channels.md)
   * [All DAMN vulnerable resources](overview/resourses/all-damn-vulnerable-resources.md)
+  * [Hacking Resources](overview/resourses/hacking-resources.md)
 * [👣 OSINT](osint.md)
+* [Google Dorks](overview/google-dorks.md)
 
 ***
 
@@ -58,9 +60,12 @@
 ## ⚒ Tools
 
 * [Axion-Scan](tools/axion-scan.md)
+* [Shodan Pentesting Guide](tools/shodan-pentesting-guide.md)
 
 ***
 
-* [Page 1](page-1/README.md)
-  * [Bug Bounty Cheatsheet](page-1/bug-bounty-cheatsheet.md)
-  * [Bug-Bounty Checklist](page-1/bug-bounty-checklist.md)
+* [👻 Cheat-sheet's](cheat-sheets/README.md)
+  * [Bug-Bounty Cheatsheet](cheat-sheets/bug-bounty-cheatsheet.md)
+  * [Linux-Cheatsheet](cheat-sheets/linux-cheatsheet.md)
+  * [Windows-Cheatsheet](cheat-sheets/windows-cheatsheet.md)
+  * [Hacking-Cheatsheet](cheat-sheets/hacking-cheatsheet.md)

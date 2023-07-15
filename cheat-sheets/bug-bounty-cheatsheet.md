@@ -1,4 +1,4 @@
-# Bug-Bounty Checklist
+# Bug-Bounty Cheatsheet
 
 #### Random DNS Pic <a href="#random-dns-pic" id="random-dns-pic"></a>
 
