@@ -23,7 +23,6 @@
 ***
 
 * [ℹ Recon Tips](overview/recon-tips/README.md)
-  * [Subdomain Enumeration](overview/recon-tips/subdomain-enumeration.md)
   * [One Liner from Awesome bug bounty](overview/recon-tips/one-liner-from-awesome-bug-bounty.md)
   * [Best Recon Technique For Active Subdomain Enumeration](recon-tips/best-recon-technique-for-active-subdomain-enumeration.md)
   * [Mastering the Art of Information Gathering](recon-tips/mastering-the-art-of-information-gathering.md)
@@ -49,6 +48,8 @@
 
 ***
 
+* [🌆 Subdomain Enumeration](subdomain-enumeration/README.md)
+  * [Subdomains Enumeration tools](subdomain-enumeration/subdomains-enumeration-tools.md)
 * [☁ Cloud Pen-Testing Checklist](cloud-pen-testing-checklist/README.md)
   * [Cloud Pen-testing Part-1](cloud-pen-testing-checklist/cloud-pen-testing-part-1.md)
   * [Cloud Pen-testing Part-2](cloud-pen-testing-checklist/cloud-pen-testing-part-2.md)
