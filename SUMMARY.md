@@ -41,6 +41,7 @@
   * [Insecure Direct Object References, Open Redirect, Request Smuggling](exploitation/insecure-direct-object-references-open-redirect-request-smuggling.md)
   * [Introducing 20 web-application hacking tools🔥🤩🌵](web-application/introducing-20-web-application-hacking-tools.md)
   * [Disclosed Reports 📝](web-application/disclosed-reports.md)
+  * [🤯 SSRF From Hackerone](web-application/ssrf-from-hackerone.md)
 
 ## 🐦 Twitter Threads
 
