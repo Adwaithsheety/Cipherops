@@ -44,8 +44,9 @@
 
 ## 🐦 Twitter Threads
 
-* [Page](twitter-threads/page.md)
-* [Thread by @ArchAngelDDay on Thread Reader App](twitter-threads/thread-by-archangeldday-on-thread-reader-app.md)
+* [✖ Tips and Tricks From Twitter](twitter-threads/tips-and-tricks-from-twitter.md)
+* [✖ Thread by @ArchAngelDDay on Thread Reader App](twitter-threads/thread-by-archangeldday-on-thread-reader-app.md)
+* [✖ people to follow on twitter](https://twitter.com/PhillipWylie/status/1682404653391118337?t=Fev86JGEbHFWv66CL8\_7Jw\&s=08)
 
 ***
 
@@ -71,3 +72,11 @@
   * [Linux-Cheatsheet](cheat-sheets/linux-cheatsheet.md)
   * [Windows-Cheatsheet](cheat-sheets/windows-cheatsheet.md)
   * [Hacking-Cheatsheet](cheat-sheets/hacking-cheatsheet.md)
+
+## ✅ CheckLists
+
+* [Page 1](checklists/page-1.md)
+
+***
+
+* [Medium and other articles links](medium-and-other-articles-links.md)
