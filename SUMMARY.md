@@ -18,7 +18,10 @@
   * [All DAMN vulnerable resources](overview/resourses/all-damn-vulnerable-resources.md)
   * [Hacking Resources](overview/resourses/hacking-resources.md)
 * [👣 OSINT](osint.md)
-* [Google Dorks](overview/google-dorks.md)
+* [Google Hacking using Dorks](overview/google-hacking-using-dorks/README.md)
+  * [Books and References](overview/google-hacking-using-dorks/books-and-references.md)
+  * [Shodan Dorks](overview/google-hacking-using-dorks/shodan-dorks.md)
+  * [Github Dorks](overview/google-hacking-using-dorks/github-dorks.md)
 
 ***
 
