@@ -20,7 +20,6 @@
 * [👣 OSINT](osint.md)
 * [🦝 Google Hacking using Dorks](overview/google-hacking-using-dorks/README.md)
   * [Books and References](overview/google-hacking-using-dorks/books-and-references.md)
-  * [Shodan Dorks](overview/google-hacking-using-dorks/shodan-dorks.md)
   * [Github Dorks](overview/google-hacking-using-dorks/github-dorks.md)
 
 ***
@@ -45,11 +44,12 @@
   * [Introducing 20 web-application hacking tools🔥🤩🌵](web-application/introducing-20-web-application-hacking-tools.md)
   * [Disclosed Reports 📝](web-application/disclosed-reports.md)
   * [🤯 SSRF From Hackerone](web-application/ssrf-from-hackerone.md)
+  * [Web Hack Tools](web-application/web-hack-tools.md)
 
-## 🐦 Twitter Threads
+## 🐦 Twitter&#x20;
 
-* [✖ Tips and Tricks From Twitter](twitter-threads/tips-and-tricks-from-twitter.md)
-* [✖ Thread by @ArchAngelDDay on Thread Reader App](twitter-threads/thread-by-archangeldday-on-thread-reader-app.md)
+* [✖ Tips and Tricks From Twitter](twitter/tips-and-tricks-from-twitter.md)
+* [✖ Thread by @ArchAngelDDay on Thread Reader App](twitter/thread-by-archangeldday-on-thread-reader-app.md)
 * [✖ people to follow on twitter](https://twitter.com/PhillipWylie/status/1682404653391118337?t=Fev86JGEbHFWv66CL8\_7Jw\&s=08)
 
 ***
@@ -67,7 +67,8 @@
 ## ⚒ Tools
 
 * [Axion-Scan](tools/axion-scan.md)
-* [Shodan Pentesting Guide](tools/shodan-pentesting-guide.md)
+* [Shodan Pentesting Guide](tools/shodan-pentesting-guide/README.md)
+  * [Shodan Dorks](tools/shodan-pentesting-guide/shodan-dorks.md)
 
 ***
 
@@ -76,11 +77,4 @@
   * [Linux-Cheatsheet](cheat-sheets/linux-cheatsheet.md)
   * [Windows-Cheatsheet](cheat-sheets/windows-cheatsheet.md)
   * [Hacking-Cheatsheet](cheat-sheets/hacking-cheatsheet.md)
-
-## ✅ CheckLists
-
-* [Page 1](checklists/page-1.md)
-
-***
-
 * [Medium and other articles links](medium-and-other-articles-links.md)

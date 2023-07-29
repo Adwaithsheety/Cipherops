@@ -63,3 +63,192 @@ Osint Lists and collections.
 
 I hope this helps!
 ```
+
+### Fast Google Dorks Scan
+
+> [https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
+
+```
+$ ./FGDS.sh <DOMAIN>
+$ proxychains bash ./FGDS.sh <DOMAIN>
+```
+
+###
+
+### Google
+
+####
+
+#### Google Dorks
+
+> [https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/google\_dorks/](https://cheatsheet.haax.fr/open-source-intelligence-osint/dorks/google\_dorks/)
+
+> [https://www.searchenginejournal.com/google-search-operators-commands/215331/](https://www.searchenginejournal.com/google-search-operators-commands/215331/)
+
+```
+intitle:index.of <TEXT>    // open directory listings
+```
+
+```
+ext:php
+inurl:%3F
+site:*.*.*.<domain>
+filetype:txt
+```
+
+
+
+**Example**
+
+```
+site:<DOMAIN> ext:php
+```
+
+
+
+**Leaks**
+
+```
+site:http://jsfiddle.net "<DOMAIN>"
+site:http://codebeautify.org "<DOMAIN>"
+site:http://codepen.io "<DOMAIN>"
+site:http://pastebin.com "<DOMAIN>"
+```
+
+
+
+**Example**
+
+```
+site:http://jsfiddle.net | site:http://codebeautify.org | site:http://codepen.io | site:http://pastebin.com "<DOMAIN>"
+site:http://jsfiddle.net | site:http://codebeautify.org | site:http://codepen.io | site:http://pastebin.com "<DOMAIN>" "demo" "test" "api"
+```
+
+
+
+**Open Redirects**
+
+```
+inurl:page= | inurl:url= | inurl:return= | inurl:next= | inurl:redir= | inurl:redirect= | inurl:target= | inurl:page= inurl:& inurl:http site:http://<DOMAIN>
+```
+
+
+
+**Cloud Environments**
+
+```
+site:http://s3.amazonaws.com "<DOMAIN>"
+site:http://blob.core.windows.net "<DOMAIN>"
+site:http://googleapis.com "<DOMAIN>"
+site:http://drive.google.com "<DOMAIN>"
+```
+
+####
+
+#### Abusing Google ID
+
+> [https://medium.com/week-in-osint/getting-a-grasp-on-googleids-77a8ab707e43](https://medium.com/week-in-osint/getting-a-grasp-on-googleids-77a8ab707e43)
+
+
+
+**Setup**
+
+1. Add a new contact to you google account (email address required)
+2. Open developer tools and select the network tab
+3. Reload the page
+4. Set the right pane to request
+5. Check all batchexecute packets
+
+
+
+**Example**
+
+> [https://contacts.google.com/\_/ContactsUi/data/batchexecute?rpcids=OSOtuf\&f.sid=-916332265175998083\&bl=boq\_contactsuiserver\_20200707.13\_p0\&hl=en\&soc-app=527\&soc-platform=1\&soc-device=1&\_reqid=765234\&rt=c](https://contacts.google.com/\_/ContactsUi/data/batchexecute?rpcids=OSOtuf\&f.sid=-916332265175998083\&bl=boq\_contactsuiserver\_20200707.13\_p0\&hl=en\&soc-app=527\&soc-platform=1\&soc-device=1&\_reqid=765234\&rt=c)
+
+6. Watch out for a string like the following one
+
+
+
+**Example**
+
+```
+[[["OSOtuf","[\"55fa738b0a752dc5\",\"117395327982835488254\"]",null,"generic"]]]
+```
+
+The Google ID's are always `21` characters long and starting with `10` or `11`.
+
+> [https://get.google.com/albumarchive/](https://get.google.com/albumarchive/)
+
+> [https://www.google.com/maps/contrib/](https://www.google.com/maps/contrib/)
+
+###
+
+### h8mail
+
+> [https://github.com/khast3x/h8mail](https://github.com/khast3x/h8mail)
+
+```
+$ h8mail -t <EMAIL>
+```
+
+###
+
+### Photon
+
+> [https://github.com/s0md3v/Photon](https://github.com/s0md3v/Photon)
+
+```
+$ python3 photon.py -u https://<DOMAIN> -l 3 -t 100 --wayback
+```
+
+###
+
+### Recon-ng
+
+####
+
+#### Basic Commands
+
+```
+$ recon-ng
+$ recon-ng -w <WORKSPACE>
+[recon-ng][default] > workspaces create <WORKSPACE>
+[recon-ng][default] > db schema
+[recon-ng][default] > db insert domains
+[recon-ng][default] > marketplace search
+[recon-ng][default] > marketplace search <NAME>
+[recon-ng][default] > marketplace info <NAME>
+[recon-ng][default] > marketplace install <NAME>
+[recon-ng][default] > marketplace remove <NAME>
+[recon-ng][default] > modules search
+[recon-ng][default] > modules load <MODULE>
+[recon-ng][default][<MODULE>] > info
+[recon-ng][default][<MODULE>] > options list
+[recon-ng][default][<MODULE>] > options set <VALUE>
+[recon-ng][default][<MODULE>] > run
+[recon-ng][default] > keys list
+[recon-ng][default] > keys add <KEY> <VALUE>
+[recon-ng][default] > keys remove <KEY>
+```
+
+`Ctrl+c` unloads a module.
+
+###
+
+### Social Analyzer
+
+> [https://github.com/qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
+
+```
+$ python3 app.py --cli --mode "fast" --username "<GIVENNAME> <SURNAME>" --websites "youtube facebook instagram" --output "pretty" --options "found,title,link,rate"
+```
+
+### theHarvester
+
+> [https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)
+
+```
+$ theHarvester -d <DOMAIN> -l 500 -b google -f myresults.html
+```
+
+###
