@@ -1,5 +1,7 @@
 # Hacking Resources
 
+{% embed url="https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks" %}
+
 * [Hacking Resources](broken-reference)
   * [Usefull Web Browser plugins](broken-reference)
   * [Cool Tools/Labs](broken-reference)
