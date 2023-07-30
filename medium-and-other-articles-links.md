@@ -4,3 +4,4 @@
 
 {% embed url="https://t.co/YvVTXNXPzE" %}
 
+{% embed url="https://www.qualys.com/2023/06/06/renderdoc/renderdoc.txt" %}
