@@ -453,3 +453,5 @@ curl -vs URL --stderr - | awk '/^content-security-policy:/' | grep -Eo "[a-zA-Z0
 ```bash
 nmap -v0 HOST -oX /dev/stdout | jc --xml -p | jq -r '.nmaprun.host | (.address["@addr"] + ":" + .ports.port[]["@portid"])' | httpx --silent
 ```
+
+{% embed url="https://github.com/0xPugazh/One-Liners" %}
