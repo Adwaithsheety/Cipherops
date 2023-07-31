@@ -2,6 +2,8 @@
 
 {% embed url="https://github.com/0xsyr0/Awesome-Cybersecurity-Handbooks" %}
 
+{% embed url="https://github.com/devanshbatham/Vulnerabilities-Unmasked" %}
+
 * [Hacking Resources](broken-reference)
   * [Usefull Web Browser plugins](broken-reference)
   * [Cool Tools/Labs](broken-reference)
