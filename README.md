@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1606857521015-7f9fcf423740?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb21wYW55fGVufDB8fHx8MTY5MDg3MjgzNXww&ixlib=rb-4.0.3&q=85
+coverY: -147
+---
+
 # 😎 Cipherops
 
 <div align="left">

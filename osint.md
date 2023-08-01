@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1535210197479-59bc559c431d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxmaW5kaW5nfGVufDB8fHx8MTY5MDg3Mjc4M3ww&ixlib=rb-4.0.3&q=85
+coverY: 110
+---
+
 # 👣 OSINT
 
 ```markdown
@@ -73,11 +79,7 @@ $ ./FGDS.sh <DOMAIN>
 $ proxychains bash ./FGDS.sh <DOMAIN>
 ```
 
-###
-
 ### Google
-
-####
 
 #### Google Dorks
 
@@ -96,15 +98,11 @@ site:*.*.*.<domain>
 filetype:txt
 ```
 
-
-
 **Example**
 
 ```
 site:<DOMAIN> ext:php
 ```
-
-
 
 **Leaks**
 
@@ -115,16 +113,12 @@ site:http://codepen.io "<DOMAIN>"
 site:http://pastebin.com "<DOMAIN>"
 ```
 
-
-
 **Example**
 
 ```
 site:http://jsfiddle.net | site:http://codebeautify.org | site:http://codepen.io | site:http://pastebin.com "<DOMAIN>"
 site:http://jsfiddle.net | site:http://codebeautify.org | site:http://codepen.io | site:http://pastebin.com "<DOMAIN>" "demo" "test" "api"
 ```
-
-
 
 **Open Redirects**
 
@@ -143,13 +137,9 @@ site:http://googleapis.com "<DOMAIN>"
 site:http://drive.google.com "<DOMAIN>"
 ```
 
-####
-
 #### Abusing Google ID
 
-> [https://medium.com/week-in-osint/getting-a-grasp-on-googleids-77a8ab707e43](https://medium.com/week-in-osint/getting-a-grasp-on-googleids-77a8ab707e43)
-
-
+> [https://medium.com/week-in-osint/getting-a-grasp-on-googleids-77a8ab707e4](https://medium.com/week-in-osint/getting-a-grasp-on-googleids-77a8ab707e43)
 
 **Setup**
 
@@ -159,15 +149,11 @@ site:http://drive.google.com "<DOMAIN>"
 4. Set the right pane to request
 5. Check all batchexecute packets
 
-
-
 **Example**
 
 > [https://contacts.google.com/\_/ContactsUi/data/batchexecute?rpcids=OSOtuf\&f.sid=-916332265175998083\&bl=boq\_contactsuiserver\_20200707.13\_p0\&hl=en\&soc-app=527\&soc-platform=1\&soc-device=1&\_reqid=765234\&rt=c](https://contacts.google.com/\_/ContactsUi/data/batchexecute?rpcids=OSOtuf\&f.sid=-916332265175998083\&bl=boq\_contactsuiserver\_20200707.13\_p0\&hl=en\&soc-app=527\&soc-platform=1\&soc-device=1&\_reqid=765234\&rt=c)
 
 6. Watch out for a string like the following one
-
-
 
 **Example**
 
@@ -181,8 +167,6 @@ The Google ID's are always `21` characters long and starting with `10` or `11`.
 
 > [https://www.google.com/maps/contrib/](https://www.google.com/maps/contrib/)
 
-###
-
 ### h8mail
 
 > [https://github.com/khast3x/h8mail](https://github.com/khast3x/h8mail)
@@ -190,8 +174,6 @@ The Google ID's are always `21` characters long and starting with `10` or `11`.
 ```
 $ h8mail -t <EMAIL>
 ```
-
-###
 
 ### Photon
 
@@ -201,11 +183,7 @@ $ h8mail -t <EMAIL>
 $ python3 photon.py -u https://<DOMAIN> -l 3 -t 100 --wayback
 ```
 
-###
-
 ### Recon-ng
-
-####
 
 #### Basic Commands
 
@@ -233,8 +211,6 @@ $ recon-ng -w <WORKSPACE>
 
 `Ctrl+c` unloads a module.
 
-###
-
 ### Social Analyzer
 
 > [https://github.com/qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer)
@@ -251,4 +227,19 @@ $ python3 app.py --cli --mode "fast" --username "<GIVENNAME> <SURNAME>" --websit
 $ theHarvester -d <DOMAIN> -l 500 -b google -f myresults.html
 ```
 
-###
+#### Online tools <a href="#online-tools" id="online-tools"></a>
+
+* [Whatsmyname](https://whatsmyname.app/) – This is my favourite one. It is pretty fast and shows only websites where the username is taken, which excludes a lot of visual noise.
+* [Instantusername](https://instantusername.com/#/) – A pretty good username checker, but like all of them, still provides false results on some social networks. For example, on Tinder it might show that the username is taken, when, in fact, it is not. Checks more than 100 networks.
+* [Checkusernames](http://checkusernames.com/) –  Another online username checker, but might have false results as well. For example, it might show that the username is not available, but when following the link you get to the 404 page (eg. Imgur, Flickr). Checks 160 social networks.
+* [Socialcatfish](https://socialcatfish.com/) – This one checks across many resources, but it takes too long to generate a report, and in the end it requires payment to unlock the report.
+* [Search.illicit.services](https://search.illicit.services/) –  Search engine for PII and leaked credentials from data brokers and breaches. Finds data leaks associated with usernames, if there are any.
+* [Social Searcher](https://www.social-searcher.com/) – Searches for username mentions on social networks.
+
+#### Github Osint tools <a href="#github" id="github"></a>
+
+* [Maigret](https://github.com/soxoj/maigret) – A pretty advanced username checker which collects a dossier on a person by username from thousands of sites. Creates HTML reports and has a telegram bot.
+* [Blackbird](https://github.com/p1ngul1n0/blackbird) – Another OSINT tool to search for accounts by username in social networks.
+* [Social Analyzer](https://github.com/qeeqbox/social-analyzer) – A tool for analysing and finding a person's profile in 1000 social media \ websites with a vast number of features. Can be accessed in CLI and has a Web App.
+* [Sherlock](https://github.com/sherlock-project/sherlock) – Hunts down social media accounts by username across social networks.
+* [Enola](https://github.com/TheYahya/enola) – A modern CLI tool written with Golang. Based on Sherlock, but returns more false positives.
