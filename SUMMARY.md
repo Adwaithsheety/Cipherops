@@ -1,22 +1,23 @@
 # Table of contents
 
-* [😎 Cipherops](README.md)
-* [🤩 Embarking on Your Hacking Journey: A Guide for Beginners](embarking-on-your-hacking-journey-a-guide-for-beginners.md)
-* [🌏 Journeying Through the World of Ethical Hacking with Cipher-ops](journeying-through-the-world-of-ethical-hacking-with-cipher-ops.md)
-* [🗽 Let's Start](lets-start/README.md)
-  * [🥳 Exploring Top Platforms and Websites for Hacking Practice and Learning](lets-start/exploring-top-platforms-and-websites-for-hacking-practice-and-learning.md)
+* [💛 Welcome](README.md)
+  * [😎 Cipherops](welcome/cipherops.md)
+  * [🤩 Embarking on Your Hacking Journey: A Guide for Beginners](welcome/embarking-on-your-hacking-journey-a-guide-for-beginners.md)
+  * [🌏 Journeying Through the World of Ethical Hacking with Cipher-ops](welcome/journeying-through-the-world-of-ethical-hacking-with-cipher-ops.md)
 
 ## Overview
 
-* [📍 Resourses](overview/resourses/README.md)
-  * [30 cybersecurity search engines](30-cybersecurity-search-engines.md)
-  * [Essential Linux Commands](essential-linux-commands.md)
-  * [Damn Vulnerabilities List Lab](damn-vulnerabilities-list-lab.md)
-  * [Try-Hack-me Roadmap](try-hack-me-roadmap.md)
-  * [Offensive virtual machine's](overview/resourses/offensive-virtual-machines.md)
-  * [cybersecurity YouTube channels](overview/resourses/cybersecurity-youtube-channels.md)
-  * [All DAMN vulnerable resources](overview/resourses/all-damn-vulnerable-resources.md)
-  * [Hacking Resources](overview/resourses/hacking-resources.md)
+* [🗽 Let's Start](overview/lets-start/README.md)
+  * [🥳 Exploring Top Platforms and Websites for Hacking Practice and Learning](overview/lets-start/exploring-top-platforms-and-websites-for-hacking-practice-and-learning.md)
+  * [📍 Resourses](overview/lets-start/resourses/README.md)
+    * [30 cybersecurity search engines](overview/lets-start/resourses/30-cybersecurity-search-engines.md)
+    * [Essential Linux Commands](overview/lets-start/resourses/essential-linux-commands.md)
+    * [Damn Vulnerabilities List Lab](overview/lets-start/resourses/damn-vulnerabilities-list-lab.md)
+    * [Try-Hack-me Roadmap](overview/lets-start/resourses/try-hack-me-roadmap.md)
+    * [Offensive virtual machine's](overview/lets-start/resourses/offensive-virtual-machines.md)
+    * [cybersecurity YouTube channels](overview/lets-start/resourses/cybersecurity-youtube-channels.md)
+    * [All DAMN vulnerable resources](overview/lets-start/resourses/all-damn-vulnerable-resources.md)
+    * [Hacking Resources](overview/lets-start/resourses/hacking-resources.md)
 * [👣 OSINT](osint.md)
 * [🦝 Google Hacking using Dorks](overview/google-hacking-using-dorks/README.md)
   * [Books and References](overview/google-hacking-using-dorks/books-and-references.md)
@@ -48,9 +49,9 @@
 
 ## 🐦 Twitter&#x20;
 
-* [✖ Tips and Tricks From Twitter](twitter-threads/tips-and-tricks-from-twitter.md)
-* [✖ Thread by @ArchAngelDDay on Thread Reader App](twitter-threads/thread-by-archangeldday-on-thread-reader-app.md)
-* [✖ people to follow on twitter](https://twitter.com/PhillipWylie/status/1682404653391118337?t=Fev86JGEbHFWv66CL8\_7Jw\&s=08)
+* [✖ Thread by @ArchAngelDDay on Thread Reader App](twitter/thread-by-archangeldday-on-thread-reader-app/README.md)
+  * [✖ Tips and Tricks From Twitter](twitter/thread-by-archangeldday-on-thread-reader-app/tips-and-tricks-from-twitter.md)
+  * [✖ people to follow on twitter](https://twitter.com/PhillipWylie/status/1682404653391118337?t=Fev86JGEbHFWv66CL8\_7Jw\&s=08)
 
 ***
 
@@ -66,10 +67,10 @@
 
 ## ⚒ Tools
 
-* [🇬🇹 Hacking Templates](tools/hacking-templates.md)
 * [Axion-Scan](tools/axion-scan.md)
 * [Shodan Pentesting Guide](tools/shodan-pentesting-guide.md)
   * [Shodan Dorks](overview/google-hacking-using-dorks/shodan-dorks.md)
+* [🇬🇹 Hacking Templates](tools/hacking-templates.md)
 
 ***
 
