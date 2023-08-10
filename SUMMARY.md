@@ -69,6 +69,7 @@
 ## ⚒ Tools
 
 * [Axion-Scan](tools/axion-scan.md)
+* [🔑 Nmap's NSE Scripts for Ethical Password Testing](tools/nmaps-nse-scripts-for-ethical-password-testing.md)
 * [Shodan Pentesting Guide](tools/shodan-pentesting-guide.md)
   * [Shodan Dorks](overview/google-hacking-using-dorks/shodan-dorks.md)
 * [🇬🇹 Hacking Templates](tools/hacking-templates.md)
