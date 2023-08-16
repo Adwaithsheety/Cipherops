@@ -18,7 +18,8 @@
     * [cybersecurity YouTube channels](overview/lets-start/resourses/cybersecurity-youtube-channels.md)
     * [All DAMN vulnerable resources](overview/lets-start/resourses/all-damn-vulnerable-resources.md)
     * [Hacking Resources](overview/lets-start/resourses/hacking-resources.md)
-* [👣 OSINT](osint.md)
+* [👣 OSINT](overview/osint/README.md)
+  * [🕹 Your Ultimate Guide Tools for IP, Domain, and Email Analysis](overview/osint/your-ultimate-guide-tools-for-ip-domain-and-email-analysis.md)
 * [🦝 Google Hacking using Dorks](overview/google-hacking-using-dorks/README.md)
   * [Books and References](overview/google-hacking-using-dorks/books-and-references.md)
   * [Github Dorks](overview/google-hacking-using-dorks/github-dorks.md)
@@ -92,4 +93,3 @@
 
 * [❓ Interview Question](interview-question/README.md)
   * [Question and Answers](interview-question/question-and-answers.md)
-* [Your Ultimate Guide Tools for IP, Domain, and Email Analysis](your-ultimate-guide-tools-for-ip-domain-and-email-analysis.md)
