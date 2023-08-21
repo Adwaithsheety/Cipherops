@@ -49,7 +49,8 @@
   * [🤯 SSRF From Hackerone](web-application/ssrf-from-hackerone.md)
   * [Web Hack Tools](web-application/web-hack-tools.md)
 * [Network security](network-security/README.md)
-  * [🏇 A Journey into SMB Enumeration (Port 139, 445)](network-security/a-journey-into-smb-enumeration-port-139-445.md)
+  * [🏇 A Journey into SMB Enumeration (Port 139, 445)](network-security/a-journey-into-smb-enumeration-port-139-445/README.md)
+    * [SMB Checklist](network-security/a-journey-into-smb-enumeration-port-139-445/smb-checklist.md)
 
 ## 🐦 Twitter&#x20;
 
