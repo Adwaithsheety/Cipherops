@@ -9,3 +9,5 @@
 {% embed url="https://medium.com/@win3zz/how-i-made-31500-by-submitting-a-bug-to-facebook-d31bb046e204" %}
 
 {% embed url="https://writeup-db.com/" %}
+
+{% embed url="https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/" %}
