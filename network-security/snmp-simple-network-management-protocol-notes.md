@@ -1,4 +1,10 @@
-# SNMP (Simple Network Management Protocol) Notes
+---
+cover: >-
+  https://images.unsplash.com/photo-1564325724739-bae0bd08762c?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8bmV0d29ya3xlbnwwfHx8fDE2OTMyMDMyMzZ8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# 🎆 SNMP (Simple Network Management Protocol) Notes
 
 ### SNMP is a protocol used for monitoring various devices on a network, including routers, switches, printers, and IoT devices.
 
