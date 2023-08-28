@@ -51,6 +51,7 @@
 * [Network security](network-security/README.md)
   * [🏇 A Journey into SMB Enumeration (Port 139, 445)](network-security/a-journey-into-smb-enumeration-port-139-445/README.md)
     * [SMB Checklist](network-security/a-journey-into-smb-enumeration-port-139-445/smb-checklist.md)
+  * [SNMP (Simple Network Management Protocol) Notes](network-security/snmp-simple-network-management-protocol-notes.md)
 
 ## 🐦 Twitter&#x20;
 
