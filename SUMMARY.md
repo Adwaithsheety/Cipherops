@@ -33,6 +33,7 @@
   * [Mastering the Art of Information Gathering](recon-tips/mastering-the-art-of-information-gathering.md)
 * [🕸 Web Application](web-application/README.md)
   * [Web Application Testing Checklist](web-application/web-application-testing-checklist.md)
+  * [Defying Digital Dangers: The Art of XSS Exploitation](web-application/defying-digital-dangers-the-art-of-xss-exploitation.md)
   * [PORT SCANNING](port-scanning.md)
   * [Subdomain Takeover Resources](subdomain-takeover-resources.md)
   * [Technology Identification](technology-identification.md)
