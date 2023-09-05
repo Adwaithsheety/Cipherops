@@ -1,4 +1,4 @@
-# Web Application Testing Checklist
+# 🧪 Comprehensive Web Application Testing Checklist
 
 ```markdown
 ### Infrastructure Penetration Testing Checklist
