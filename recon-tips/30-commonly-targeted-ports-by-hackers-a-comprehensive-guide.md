@@ -1,6 +1,6 @@
 # 😍 30 Commonly Targeted Ports by Hackers: A Comprehensive Guide
 
-## &#x20;:heavy\_multiplication\_x:[<mark style="color:red;">Twitter</mark>](https://twitter.com/Cipher0ps\_tech?t=MlqumIay8I49eWwhjgrotg\&s=09) :link: [<mark style="color:red;">Linkedin</mark>](https://www.linkedin.com/company/cipherops/) :tv: [<mark style="color:red;">Telegram</mark>](https://t.me/cipherops\_tech) :tada: [<mark style="color:red;">Instagram</mark>](https://instagram.com/cipherops\_tech?igshid=MzNlNGNkZWQ4Mg==)<mark style="color:red;">\\</mark>
+## &#x20;:heavy\_multiplication\_x:[<mark style="color:red;">Twitter</mark>](https://twitter.com/Cipher0ps\_tech?t=MlqumIay8I49eWwhjgrotg\&s=09) :link: [<mark style="color:red;">Linkedin</mark>](https://www.linkedin.com/company/cipherops/) :tv: [<mark style="color:red;">Telegram</mark>](https://t.me/cipherops\_tech) :tada: [<mark style="color:red;">Instagram</mark>](https://instagram.com/cipherops\_tech?igshid=MzNlNGNkZWQ4Mg==)
 
 Explore the top 30 ports often exploited by hackers, from familiar ports like Port 80 (HTTP) to lesser-known ones like Port 9090 (Web Debugging). Learn about the vulnerabilities and steps to secure your system. 🔒🌐🎮
 
