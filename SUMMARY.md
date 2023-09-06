@@ -35,6 +35,7 @@
   * [🧪 Comprehensive Web Application Testing Checklist](web-application/comprehensive-web-application-testing-checklist.md)
   * [👐 Unveiling Open Ports with Advanced Techniques](web-application/unveiling-open-ports-with-advanced-techniques.md)
   * [🦊 The Art of XSS Exploitation](web-application/the-art-of-xss-exploitation.md)
+  * [📃 Crucial WordPress Security Misconfiguration You Need to Know](web-application/crucial-wordpress-security-misconfiguration-you-need-to-know.md)
   * [🤯 SSRF From Hackerone](web-application/ssrf-from-hackerone.md)
   * [Subdomain Takeover Resources](subdomain-takeover-resources.md)
   * [Technology Identification](technology-identification.md)
