@@ -1,4 +1,10 @@
-# Subdomain Takeover Resources
+---
+cover: >-
+  https://images.unsplash.com/photo-1574105079631-4f915922b61b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxtYXN0ZXJ8ZW58MHx8fHwxNjk0MDY0NjEwfDA&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
+# 🤖 Mastering Subdomain Takeovers
 
 ```markdown
 Here is a list of subdomain takeover resources along with their descriptions:

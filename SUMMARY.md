@@ -37,7 +37,7 @@
   * [🦊 The Art of XSS Exploitation](web-application/the-art-of-xss-exploitation.md)
   * [📃 Crucial WordPress Security Misconfiguration You Need to Know](web-application/crucial-wordpress-security-misconfiguration-you-need-to-know.md)
   * [🤯 SSRF From Hackerone](web-application/ssrf-from-hackerone.md)
-  * [Subdomain Takeover Resources](subdomain-takeover-resources.md)
+  * [🤖 Mastering Subdomain Takeovers](web-application/mastering-subdomain-takeovers.md)
   * [Technology Identification](technology-identification.md)
   * [Content Discovery Tools](content-discovery-tools.md)
   * [Link Extraction Tools](link-extraction-tools.md)
