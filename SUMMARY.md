@@ -39,7 +39,7 @@
   * [🤯 SSRF From Hackerone](web-application/ssrf-from-hackerone.md)
   * [🤖 Mastering Subdomain Takeovers](web-application/mastering-subdomain-takeovers.md)
   * [Technology Identification](technology-identification.md)
-  * [Content Discovery Tools](content-discovery-tools.md)
+  * [⚓ Comprehensive Guide to Web Content Discovery: Tools, Techniques, and Tips](web-application/comprehensive-guide-to-web-content-discovery-tools-techniques-and-tips.md)
   * [Link Extraction Tools](link-extraction-tools.md)
   * [Parameter and Web Fuzzing Tools](parameter-and-web-fuzzing-tools.md)
   * [Screenshots](screenshots.md)
