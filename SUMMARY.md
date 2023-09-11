@@ -40,6 +40,7 @@
   * [🤖 Mastering Subdomain Takeovers](web-application/mastering-subdomain-takeovers.md)
   * [Technology Identification](technology-identification.md)
   * [⚓ Comprehensive Guide to Web Content Discovery: Tools, Techniques, and Tips](web-application/comprehensive-guide-to-web-content-discovery-tools-techniques-and-tips.md)
+  * [🐝 Exploring XPath Injection: Basics, Techniques, and Creative Exploitation](web-application/exploring-xpath-injection-basics-techniques-and-creative-exploitation.md)
   * [Link Extraction Tools](link-extraction-tools.md)
   * [Parameter and Web Fuzzing Tools](parameter-and-web-fuzzing-tools.md)
   * [Screenshots](screenshots.md)
