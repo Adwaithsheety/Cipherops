@@ -13,3 +13,9 @@ description: All tweets are shared here as collection and does not own any conte
 {% embed url="https://twitter.com/ShieldifyAnon/status/1642847923741372417?s=20" %}
 
 {% embed url="https://twitter.com/hakluke/status/1684987665077153811?s=20" %}
+
+{% embed url="https://twitter.com/i/status/1701253078874235164" %}
+
+{% embed url="https://x.com/thebitdoodler/status/1701209507823489128?s=20" %}
+
+{% embed url="https://x.com/Pwn4arn/status/1701277485411762673?s=20" %}
