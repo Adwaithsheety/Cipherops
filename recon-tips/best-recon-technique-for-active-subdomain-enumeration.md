@@ -5,8 +5,11 @@ coverY: 71
 
 # 🎗 Best Recon Technique For Active Subdomain Enumeration
 
+## :heavy\_multiplication\_x: [<mark style="color:red;">Twitter</mark>](https://twitter.com/Cipher0ps\_tech?t=MlqumIay8I49eWwhjgrotg\&s=09) :link: [<mark style="color:red;">Linkedin</mark>](https://www.linkedin.com/company/cipherops/) :tv: [<mark style="color:red;">Telegram</mark>](https://t.me/cipherops\_tech) :tada: <mark style="color:red;">I</mark>[<mark style="color:red;">nstagram</mark>](https://instagram.com/cipherops\_tech?igshid=MzNlNGNkZWQ4Mg==)
+
 \
 In this article, we will explore some effective reconnaissance techniques that can assist you in discovering valuable information. Let's dive into these techniques for a comprehensive recon experience.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <mark style="color:green;">**Technique 1:**</mark> Active Subdomain Enumeration Active subdomain enumeration is a powerful technique often overlooked in favor of passive methods. There are two ways to perform active subdomain enumeration:
 
