@@ -29,7 +29,7 @@
 * [ℹ Recon Tips](overview/recon-tips/README.md)
   * [😍 30 Commonly Targeted Ports by Hackers: A Comprehensive Guide](recon-tips/30-commonly-targeted-ports-by-hackers-a-comprehensive-guide.md)
   * [One Liner from Awesome bug bounty](overview/recon-tips/one-liner-from-awesome-bug-bounty.md)
-  * [Best Recon Technique For Active Subdomain Enumeration](recon-tips/best-recon-technique-for-active-subdomain-enumeration.md)
+  * [🎗 Best Recon Technique For Active Subdomain Enumeration](recon-tips/best-recon-technique-for-active-subdomain-enumeration.md)
   * [Mastering the Art of Information Gathering](recon-tips/mastering-the-art-of-information-gathering.md)
 * [🕸 Web Application](web-application/README.md)
   * [🥈 Introducing 20 web-application hacking tools🔥🤩🌵](web-application/introducing-20-web-application-hacking-tools.md)

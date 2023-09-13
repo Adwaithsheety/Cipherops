@@ -1,4 +1,9 @@
-# Best Recon Technique For Active Subdomain Enumeration
+---
+cover: https://hackersbyrez0.com/images/image830.png
+coverY: 71
+---
+
+# 🎗 Best Recon Technique For Active Subdomain Enumeration
 
 \
 In this article, we will explore some effective reconnaissance techniques that can assist you in discovering valuable information. Let's dive into these techniques for a comprehensive recon experience.
