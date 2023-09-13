@@ -1,4 +1,9 @@
-# One Liner from Awesome bug bounty
+---
+cover: https://hackersbyrez0.com/images/image455.png
+coverY: 213
+---
+
+# 1⃣ One Liner from Awesome bug bounty
 
 ## <mark style="color:green;">Awesome One-liner Bug Bounty</mark> [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/dwisiswant0/awesome-oneliner-bugbounty/tree/master) <a href="#https-github.com-dwisiswant0-awesome-oneliner-bugbounty-tree-master" id="https-github.com-dwisiswant0-awesome-oneliner-bugbounty-tree-master"></a>
 

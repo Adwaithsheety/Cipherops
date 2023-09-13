@@ -1,7 +1,6 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1536825211030-094de935f680?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxqb3VybmV5fGVufDB8fHx8MTY5MDg3Mjg4MHww&ixlib=rb-4.0.3&q=85
-coverY: -37
+cover: https://hackersbyrez0.com/images/image1649.png
+coverY: -51
 ---
 
 # 🤩 Embarking on Your Hacking Journey: A Guide for Beginners

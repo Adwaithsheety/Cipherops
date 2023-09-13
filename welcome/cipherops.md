@@ -1,7 +1,20 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1606857521015-7f9fcf423740?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb21wYW55fGVufDB8fHx8MTY5MDg3MjgzNXww&ixlib=rb-4.0.3&q=85
-coverY: -147
+cover: https://hackersbyrez0.com/images/image894.png
+coverY: 20
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 😎 Cipherops
@@ -12,7 +25,7 @@ coverY: -147
 
 </div>
 
-### <mark style="color:green;">Who We Are</mark>: Introducing [CipherOps](https://cipherops.tech)
+### <mark style="color:green;">Who We Are</mark> : Introducing [CipherOps](https://cipherops.tech)
 
 At CipherOps, we are a team of dedicated professionals passionate about cybersecurity and protecting your digital assets. With a strong focus on providing comprehensive and reliable security solutions, we strive to stay ahead of the ever-evolving threats in the digital landscape.Li
 
