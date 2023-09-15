@@ -1,7 +1,7 @@
 ---
 description: 'Ref: https://hackerone.com/reports/1864188'
 cover: ../../.gitbook/assets/Blue Pink Gradient Fashion Banner (1).png
-coverY: -31
+coverY: 0
 ---
 
 # 🤯 Understanding SSRF Vulnerabilities and Their Impact
