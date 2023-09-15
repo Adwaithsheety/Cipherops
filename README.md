@@ -1,6 +1,6 @@
 ---
-cover: https://hackersbyrez0.com/images/image461.png
-coverY: 60
+cover: .gitbook/assets/Blue Pink Gradient Fashion Banner.png
+coverY: -39
 ---
 
 # 💛 Welcome
