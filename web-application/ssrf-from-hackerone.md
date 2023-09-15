@@ -1,5 +1,7 @@
 ---
 description: 'Ref: https://hackerone.com/reports/1864188'
+cover: https://hackersbyrez0.com/images/image835.png
+coverY: 0
 ---
 
 # 🤯 SSRF From Hackerone
