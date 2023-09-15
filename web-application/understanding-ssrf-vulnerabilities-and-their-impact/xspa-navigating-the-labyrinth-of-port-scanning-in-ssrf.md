@@ -1,4 +1,9 @@
-# XSPA: Navigating the Labyrinth of Port Scanning in SSRF
+---
+cover: ../../.gitbook/assets/8.png
+coverY: -15
+---
+
+# 📦 XSPA: Navigating the Labyrinth of Port Scanning in SSRF
 
 In the intricate landscape of Server-Side Request Forgery (SSRF) exploits, one particular technique stands out as a labyrinthine journey into the heart of network vulnerabilities—Cross-Site Port Attack (XSPA). XSPA empowers attackers to embark on a voyage of port scanning within the confines of the targeted server, revealing the hidden ports and services therein.
 

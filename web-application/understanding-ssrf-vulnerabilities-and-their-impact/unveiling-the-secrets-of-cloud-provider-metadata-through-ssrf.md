@@ -1,4 +1,9 @@
-# Unveiling the Secrets of Cloud Provider Metadata Through SSRF
+---
+cover: ../../.gitbook/assets/10.png
+coverY: -15
+---
+
+# 🎣 Unveiling the Secrets of Cloud Provider Metadata Through SSRF
 
 In the realm of cybersecurity, Server-Side Request Forgery (SSRF) emerges as a cunning infiltrator, capable of unveiling the closely guarded secrets of cloud providers like AWS, Google Cloud, Azure, and DigitalOcean. This covert operation relies on the art of exploiting private addressing, cleverly concealed within each provider's documentation.
 

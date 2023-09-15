@@ -1,4 +1,9 @@
-# Connecting to Services via URL Schemes
+---
+cover: ../../.gitbook/assets/6.png
+coverY: 21
+---
+
+# 🎊 Connecting to Services via URL Schemes
 
 In our continued exploration of Server-Side Request Forgery (SSRF) exploits, we embark on a journey through the intricate web of URL schemes. These techniques, akin to a cyber artist's brushstrokes, allow attackers to connect to specific services, revealing concealed aspects of the digital landscape.
 

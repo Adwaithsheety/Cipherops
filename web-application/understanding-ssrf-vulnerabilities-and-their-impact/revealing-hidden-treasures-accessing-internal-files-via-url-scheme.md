@@ -1,4 +1,9 @@
-# Revealing Hidden Treasures: Accessing Internal Files via URL Scheme
+---
+cover: ../../.gitbook/assets/5 (1).png
+coverY: -9
+---
+
+# 😉 Revealing Hidden Treasures: Accessing Internal Files via URL Scheme
 
 As our journey through the world of Server-Side Request Forgery (SSRF) continues, we uncover a gallery of techniques that artists of exploitation employ to access concealed treasures—the internal files of web servers. These exploits, much like secret passages through a digital labyrinth, grant the attacker access to sensitive data or configurations.
 
@@ -9,7 +14,7 @@ Among the intriguing techniques within SSRF's palette, one noteworthy category i
 * _The Eloquent File Scheme_: Our cyber artist begins with an eloquent exploit, crafting a URL that resonates with simplicity:
 
 ```bash
-bashCopy codehttps://target.com/page?url=file://etc/passwd
+https://target.com/page?url=file://etc/passwd
 ```
 
 In this masterpiece, the attacker navigates the digital corridors to reach the `/etc/passwd` file, a treasure trove of user account information.
@@ -17,7 +22,7 @@ In this masterpiece, the attacker navigates the digital corridors to reach the `
 * _The Triple-Slash Marvel_: Like a virtuoso, the attacker adds complexity to their canvas with a URL adorned in triple slashes:
 
 ```perl
-perlCopy codehttps://target.com/page?url=file:///etc/passwd
+https://target.com/page?url=file:///etc/passwd
 ```
 
 This marvel of an exploit weaves a path to the same `/etc/passwd` file, demonstrating the versatility of SSRF artistry.
@@ -25,7 +30,7 @@ This marvel of an exploit weaves a path to the same `/etc/passwd` file, demonstr
 * _The Unconventional Path_: In a display of creativity, the attacker employs unconventional slashes to obscure their intentions:
 
 ```bash
-bashCopy codehttps://target.com/page?url=file://\/\/etc/passwd
+https://target.com/page?url=file://\/\/etc/passwd
 ```
 
 This unconventional path may baffle the uninitiated, but for the artist, it's a means to the same coveted `/etc/passwd` file.
@@ -33,7 +38,7 @@ This unconventional path may baffle the uninitiated, but for the artist, it's a 
 * _The Path to Discovery_: With precision, the attacker uses the file scheme to reach specific files:
 
 ```bash
-bashCopy codehttps://target.com/page?url=file://path/to/file
+https://target.com/page?url=file://path/to/file
 ```
 
 Here, the canvas becomes a map, guiding the attacker to a file of interest, potentially unveiling hidden secrets within the server.

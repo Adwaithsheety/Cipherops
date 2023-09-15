@@ -1,6 +1,6 @@
 ---
-cover: https://hackersbyrez0.com/images/image894.png
-coverY: 20
+cover: ../.gitbook/assets/Blue Pink Gradient Fashion Banner (1).png
+coverY: -83
 layout:
   cover:
     visible: true
