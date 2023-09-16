@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Blog banner (2).png
+coverY: -22
+---
+
 # 🗽 Let's Start
 
 ## [<mark style="color:green;">**A Guide**</mark> <mark style="color:green;">**to Getting Started in Hacking**</mark>](#user-content-fn-1)[^1]

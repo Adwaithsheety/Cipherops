@@ -1,5 +1,10 @@
 ---
+cover: ../../.gitbook/assets/Blog banner (3).png
+coverY: 12
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:
