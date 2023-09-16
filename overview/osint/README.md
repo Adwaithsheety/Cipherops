@@ -2,6 +2,7 @@
 cover: >-
   https://images.unsplash.com/photo-1535210197479-59bc559c431d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxmaW5kaW5nfGVufDB8fHx8MTY5MDg3Mjc4M3ww&ixlib=rb-4.0.3&q=85
 coverY: 110
+layout: landing
 ---
 
 # 👣 OSINT

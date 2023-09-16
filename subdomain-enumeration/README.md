@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🌆 Subdomain Enumeration
 
 ## <mark style="color:green;">Subdomain Enumeration Tools</mark>

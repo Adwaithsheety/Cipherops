@@ -85,12 +85,12 @@
 
 * [Axion-Scan](tools/axion-scan.md)
 * [🔑 Nmap's NSE Scripts for Ethical Password Testing](tools/nmaps-nse-scripts-for-ethical-password-testing.md)
-* [Shodan Pentesting Guide](tools/shodan-pentesting-guide.md)
-  * [Shodan Dorks](overview/google-hacking-using-dorks/shodan-dorks.md)
-* [🇬🇹 Hacking Templates](tools/hacking-templates.md)
 
 ***
 
+* [Shodan Pentesting Guide](shodan-pentesting-guide/README.md)
+  * [Shodan Dorks](shodan-pentesting-guide/shodan-dorks.md)
+* [🇬🇹 Hacking Templates](hacking-templates.md)
 * [👻 Cheat-sheet's](cheat-sheets/README.md)
   * [Bug-Bounty Cheatsheet](cheat-sheets/bug-bounty-cheatsheet.md)
   * [Linux-Cheatsheet](cheat-sheets/linux-cheatsheet.md)

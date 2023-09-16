@@ -1,6 +1,20 @@
 ---
 cover: ../../.gitbook/assets/Blog banner (2).png
 coverY: -22
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🗽 Let's Start

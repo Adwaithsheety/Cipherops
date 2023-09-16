@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # 🦝 Google Hacking using Dorks
 
 Title: Google Dorks for Targeted Information Search

@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # ☁ Cloud Pen-Testing Checklist
 
 
