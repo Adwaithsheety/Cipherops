@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Blog banner (1).png
+coverY: 0
+---
+
 # 🌏 Journeying Through the World of Ethical Hacking with Cipher-ops
 
 {% hint style="info" %}

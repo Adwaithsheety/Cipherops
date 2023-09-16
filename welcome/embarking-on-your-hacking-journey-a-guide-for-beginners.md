@@ -1,6 +1,6 @@
 ---
-cover: https://hackersbyrez0.com/images/image1649.png
-coverY: -51
+cover: ../.gitbook/assets/Blog banner.png
+coverY: 0
 ---
 
 # 🤩 Embarking on Your Hacking Journey: A Guide for Beginners
