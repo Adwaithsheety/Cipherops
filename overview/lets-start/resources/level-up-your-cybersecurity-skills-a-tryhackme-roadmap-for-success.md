@@ -3,7 +3,7 @@ cover: ../../../.gitbook/assets/Blog banner (8).png
 coverY: 17
 ---
 
-# Level Up Your Cybersecurity Skills: A TryHackMe Roadmap for Success
+# 🍥 Level Up Your Cybersecurity Skills: A TryHackMe Roadmap for Success
 
 ```markdown
 # Level 1 - Intro
