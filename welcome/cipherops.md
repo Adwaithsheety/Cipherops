@@ -58,3 +58,5 @@ Visit our website at [<mark style="color:blue;">cipherops.tech</mark>](https://c
 Secure your digital assets with CipherOps and stay one step ahead of cyber threats.
 
 ## <mark style="color:red;">Note: This message is intended for not a promotional purpose and does not guarantee specific outcomes or results.</mark>
+
+<meta name="google-adsense-account" content="ca-pub-2604986028853261">
