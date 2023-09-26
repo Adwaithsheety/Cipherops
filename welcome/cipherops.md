@@ -33,9 +33,6 @@ At CipherOps, we are a team of dedicated professionals passionate about cybersec
 
 #### <mark style="color:green;">Our Mission</mark>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2604986028853261"
-     crossorigin="anonymous"></script>
-     
 Our mission is to safeguard your organization's sensitive information and ensure the integrity of your systems. We understand the critical importance of maintaining a secure environment in today's interconnected world, where cyber threats can have severe consequences.
 
 ### <mark style="color:green;">What We Offer</mark>
