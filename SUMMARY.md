@@ -29,7 +29,7 @@
 * [ℹ Recon Tips](overview/recon-tips/README.md)
   * [😍 30 Commonly Targeted Ports by Hackers: A Comprehensive Guide](recon-tips/30-commonly-targeted-ports-by-hackers-a-comprehensive-guide.md)
   * [🎗 Best Recon Technique For Active Subdomain Enumeration](recon-tips/best-recon-technique-for-active-subdomain-enumeration.md)
-  * [1⃣ One Liner from Awesome bug bounty](overview/recon-tips/one-liner-from-awesome-bug-bounty.md)
+  * [1⃣ 1⃣ One Liner from Awesome bug bounty](overview/recon-tips/one-liner-from-awesome-bug-bounty.md)
   * [Mastering the Art of Information Gathering](recon-tips/mastering-the-art-of-information-gathering.md)
 * [🕸 Web Application](web-application/README.md)
   * [🥈 Introducing 20 web-application hacking tools🔥🤩🌵](web-application/introducing-20-web-application-hacking-tools.md)
@@ -63,7 +63,7 @@
     * [SMB Checklist](network-security/a-journey-into-smb-enumeration-port-139-445/smb-checklist.md)
   * [🎆 SNMP (Simple Network Management Protocol) Notes](network-security/snmp-simple-network-management-protocol-notes.md)
 
-## 🐦 Twitter&#x20;
+## 🐦 Twitter
 
 * [✖ Thread by @ArchAngelDDay on Thread Reader App](twitter/thread-by-archangeldday-on-thread-reader-app/README.md)
   * [✖ Tips and Tricks From Twitter](twitter/thread-by-archangeldday-on-thread-reader-app/tips-and-tricks-from-twitter.md)
