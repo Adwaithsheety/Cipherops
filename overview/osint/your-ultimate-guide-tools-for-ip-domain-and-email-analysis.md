@@ -1,10 +1,23 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1530107973768-581951e62d34?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxndWlkZXxlbnwwfHx8fDE2OTIxNjM2MDZ8MA&ixlib=rb-4.0.3&q=85
-coverY: 113
+cover: ../../.gitbook/assets/Blog banner (11).png
+coverY: -23.63573883161512
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 🕹 Your Ultimate Guide Tools for IP, Domain, and Email Analysis
+# 🕹 Exploring the Digital Universe: Mastering Tools for IP, Domain, and Email Analysis🌐🔍💼
 
 ## :heavy\_multiplication\_x: [<mark style="color:red;">Twitter</mark>](https://twitter.com/Cipher0ps\_tech?t=MlqumIay8I49eWwhjgrotg\&s=09) :link: [<mark style="color:red;">Linkedin</mark>](https://www.linkedin.com/company/cipherops/) :tv: [<mark style="color:red;">Telegram</mark>](https://t.me/cipherops\_tech) :tada: <mark style="color:red;">I</mark>[<mark style="color:red;">nstagram</mark>](https://instagram.com/cipherops\_tech?igshid=MzNlNGNkZWQ4Mg==)
 

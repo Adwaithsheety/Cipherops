@@ -19,7 +19,7 @@
     * [All DAMN vulnerable resources](overview/lets-start/resources/all-damn-vulnerable-resources.md)
     * [Hacking Resources](overview/lets-start/resources/hacking-resources.md)
 * [👣 OSINT](overview/osint/README.md)
-  * [🕹 Your Ultimate Guide Tools for IP, Domain, and Email Analysis](overview/osint/your-ultimate-guide-tools-for-ip-domain-and-email-analysis.md)
+  * [🕹 Exploring the Digital Universe: Mastering Tools for IP, Domain, and Email Analysis🌐🔍💼](overview/osint/your-ultimate-guide-tools-for-ip-domain-and-email-analysis.md)
 * [🦝 Google Hacking using Dorks](overview/google-hacking-using-dorks/README.md)
   * [Books and References](overview/google-hacking-using-dorks/books-and-references.md)
   * [Github Dorks](overview/google-hacking-using-dorks/github-dorks.md)
