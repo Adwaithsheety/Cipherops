@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/t - 1.png
 coverY: -37
 ---
 
-# Tool - 1 Subscraper
+# 🔩 Tool - 1 Subscraper
 
 Subscraper is a powerful reconnaissance tool designed for gathering information from various online sources, especially social media platforms. This versatile tool is commonly used by cybersecurity professionals, researchers, and penetration testers to collect valuable data for different purposes.
 

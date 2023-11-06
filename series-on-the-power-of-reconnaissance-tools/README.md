@@ -7,7 +7,7 @@ cover: ../.gitbook/assets/recon(1).png
 coverY: -23
 ---
 
-# Series on : The Power of Reconnaissance Tools
+# 🫐 Series on : The Power of Reconnaissance Tools
 
 **Subdomain Enumeration:**
 

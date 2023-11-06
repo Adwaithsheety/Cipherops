@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/t - 1(1).png
 coverY: -28
 ---
 
-# Tool - 2 Findomain Subdomain Enumeration Tool
+# 🔧 Tool - 2 Findomain Subdomain Enumeration Tool
 
 **Findomain Subdomain Enumeration Tool**
 
