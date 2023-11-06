@@ -1,8 +1,24 @@
 ---
 description: 'NOTE: This is just a information, for further reading do check the article'
+cover: ../.gitbook/assets/sucess.png
+coverY: -68.92880051314945
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# Mastering the Art of Information Gathering
+# 🌊 Mastering the Art of Information Gathering
 
 ### <mark style="color:green;">Introduction</mark>
 

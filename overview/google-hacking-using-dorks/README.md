@@ -1,4 +1,6 @@
 ---
+cover: ../../.gitbook/assets/Dorks.png
+coverY: -41
 layout: landing
 ---
 

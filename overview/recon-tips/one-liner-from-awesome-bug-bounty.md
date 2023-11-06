@@ -1,9 +1,23 @@
 ---
-cover: https://hackersbyrez0.com/images/image455.png
-coverY: 213
+cover: ../../.gitbook/assets/awesome.png
+coverY: -85.44964720974983
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 1⃣ One Liner from Awesome bug bounty
+# 1⃣ Unlocking Bounty Riches: A Glimpse into the World of Awesome Bug Bounties
 
 ## <mark style="color:green;">Awesome One-liner Bug Bounty</mark> [![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/dwisiswant0/awesome-oneliner-bugbounty/tree/master) <a href="#https-github.com-dwisiswant0-awesome-oneliner-bugbounty-tree-master" id="https-github.com-dwisiswant0-awesome-oneliner-bugbounty-tree-master"></a>
 

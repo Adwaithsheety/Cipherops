@@ -1,8 +1,10 @@
 ---
 description: https://github.com/0xPugazh/Awesome-Dorks - Reference
+cover: ../../.gitbook/assets/github(1).png
+coverY: -60.427196921103274
 ---
 
-# Github Dorks
+# 🌯 Optimizing Bug Bounty with GitHub Dorks: A Comprehensive Guide
 
 ```
 Few top Github dorks for hacking!

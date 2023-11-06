@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/COMMON.png
+coverY: -73.99679281590764
+---
+
 # 😍 30 Commonly Targeted Ports by Hackers: A Comprehensive Guide
 
 ## &#x20;:heavy\_multiplication\_x:[<mark style="color:red;">Twitter</mark>](https://twitter.com/Cipher0ps\_tech?t=MlqumIay8I49eWwhjgrotg\&s=09) :link: [<mark style="color:red;">Linkedin</mark>](https://www.linkedin.com/company/cipherops/) :tv: [<mark style="color:red;">Telegram</mark>](https://t.me/cipherops\_tech) :tada: [<mark style="color:red;">Instagram</mark>](https://instagram.com/cipherops\_tech?igshid=MzNlNGNkZWQ4Mg==)

@@ -1,5 +1,20 @@
 ---
-layout: landing
+cover: ../../.gitbook/assets/recon(2).png
+coverY: 6.644002565747273
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # ℹ Recon Tips

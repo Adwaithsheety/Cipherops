@@ -1,4 +1,9 @@
-# Books and References
+---
+cover: ../../.gitbook/assets/book.png
+coverY: -51.99679281590763
+---
+
+# 📙 Essential Bug Bounty Resources: Books and References
 
 {% embed url="https://lira.epac.to/DOCS-TECH/Hacking/Google/" %}
 

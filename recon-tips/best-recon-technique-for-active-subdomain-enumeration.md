@@ -1,6 +1,6 @@
 ---
-cover: https://hackersbyrez0.com/images/image830.png
-coverY: 71
+cover: ../.gitbook/assets/COMMON(1).png
+coverY: -85.9255933290571
 ---
 
 # 🎗 Best Recon Technique For Active Subdomain Enumeration
