@@ -30,6 +30,7 @@
   * [😍 30 Commonly Targeted Ports by Hackers: A Comprehensive Guide](recon-tips/30-commonly-targeted-ports-by-hackers-a-comprehensive-guide.md)
   * [🎗 Best Recon Technique For Active Subdomain Enumeration](recon-tips/best-recon-technique-for-active-subdomain-enumeration.md)
   * [1⃣ Unlocking Bounty Riches: A Glimpse into the World of Awesome Bug Bounties](overview/recon-tips/one-liner-from-awesome-bug-bounty.md)
+  * [🚡 Streamlining Your Reconnaissance Workflow for Effective Bug Bounty Hunting](recon-tips/streamlining-your-reconnaissance-workflow-for-effective-bug-bounty-hunting.md)
   * [🌊 Mastering the Art of Information Gathering](recon-tips/mastering-the-art-of-information-gathering.md)
   * [🫐 Series on : The Power of Reconnaissance Tools](recon-tips/series-on-the-power-of-reconnaissance-tools/README.md)
     * [🔩 Tool - 1 Subscraper](recon-tips/series-on-the-power-of-reconnaissance-tools/tool-1-subscraper.md)
@@ -52,6 +53,7 @@
   * [🤖 Mastering Subdomain Takeovers](web-application/mastering-subdomain-takeovers.md)
   * [⚓ Comprehensive Guide to Web Content Discovery: Tools, Techniques, and Tips](web-application/comprehensive-guide-to-web-content-discovery-tools-techniques-and-tips.md)
   * [🐝 Exploring XPath Injection: Basics, Techniques, and Creative Exploitation](web-application/exploring-xpath-injection-basics-techniques-and-creative-exploitation.md)
+  * [👿 De-serialization Attack](web-application/de-serialization-attack.md)
   * [Technology Identification](technology-identification.md)
   * [Link Extraction Tools](link-extraction-tools.md)
   * [Parameter and Web Fuzzing Tools](parameter-and-web-fuzzing-tools.md)
@@ -66,6 +68,7 @@
   * [🏇 A Journey into SMB Enumeration (Port 139, 445)](network-security/a-journey-into-smb-enumeration-port-139-445/README.md)
     * [SMB Checklist](network-security/a-journey-into-smb-enumeration-port-139-445/smb-checklist.md)
   * [🎆 SNMP (Simple Network Management Protocol) Notes](network-security/snmp-simple-network-management-protocol-notes.md)
+* [✳ Mastering the Art of Writing Clear and Effective Vulnerabilities Report](mastering-the-art-of-writing-clear-and-effective-vulnerabilities-report.md)
 
 ## 🐦 Twitter
 
