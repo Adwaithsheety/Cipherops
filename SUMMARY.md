@@ -36,6 +36,7 @@
     * [🔩 Tool - 1 Subscraper](recon-tips/series-on-the-power-of-reconnaissance-tools/tool-1-subscraper.md)
     * [🔧 Tool - 2 Findomain Subdomain Enumeration Tool](recon-tips/series-on-the-power-of-reconnaissance-tools/tool-2-findomain-subdomain-enumeration-tool.md)
     * [🏹 Tool - 3 Assetfinder: Subdomain Enumeration Tool Manual](recon-tips/series-on-the-power-of-reconnaissance-tools/tool-3-assetfinder-subdomain-enumeration-tool-manual.md)
+* [🔬 Tool - 4 Subfinder: An Essential Guide for Domain Reconnaissance](tool-4-subfinder-an-essential-guide-for-domain-reconnaissance.md)
 * [🕸 Web Application](web-application/README.md)
   * [🥈 Introducing 20 web-application hacking tools🔥🤩🌵](web-application/introducing-20-web-application-hacking-tools.md)
   * [🧪 Comprehensive Web Application Testing Checklist](web-application/comprehensive-web-application-testing-checklist.md)
