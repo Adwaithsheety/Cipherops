@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/de-serialization.png
+coverY: 0
+---
+
 # 👿 De-serialization Attack
 
 ## **Deserialization Attacks: Unmasking the Security Threat**
