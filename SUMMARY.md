@@ -55,6 +55,8 @@
   * [⚓ Comprehensive Guide to Web Content Discovery: Tools, Techniques, and Tips](web-application/comprehensive-guide-to-web-content-discovery-tools-techniques-and-tips.md)
   * [🐝 Exploring XPath Injection: Basics, Techniques, and Creative Exploitation](web-application/exploring-xpath-injection-basics-techniques-and-creative-exploitation.md)
   * [🏺 Top 100 web vulnerabilities](web-application/top-100-web-vulnerabilities.md)
+  * [☢ Understanding JSON API: A Comprehensive Guide](web-application/understanding-json-api-a-comprehensive-guide/README.md)
+    * [🧞♂ API Security Cheat Sheet PART - 1](web-application/understanding-json-api-a-comprehensive-guide/api-security-cheat-sheet-part-1.md)
   * [👿 De-serialization Attack](web-application/de-serialization-attack.md)
   * [Technology Identification](technology-identification.md)
   * [Link Extraction Tools](link-extraction-tools.md)
