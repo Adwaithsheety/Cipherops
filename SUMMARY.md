@@ -57,6 +57,7 @@
   * [🏺 Top 100 web vulnerabilities](web-application/top-100-web-vulnerabilities.md)
   * [☢ Understanding JSON API: A Comprehensive Guide](web-application/understanding-json-api-a-comprehensive-guide/README.md)
     * [🧞♂ API Security Cheat Sheet PART - 1](web-application/understanding-json-api-a-comprehensive-guide/api-security-cheat-sheet-part-1.md)
+    * [🧞♀ API Security Cheat Sheet PART - 2](web-application/understanding-json-api-a-comprehensive-guide/api-security-cheat-sheet-part-2.md)
   * [👿 De-serialization Attack](web-application/de-serialization-attack.md)
   * [Technology Identification](technology-identification.md)
   * [Link Extraction Tools](link-extraction-tools.md)
