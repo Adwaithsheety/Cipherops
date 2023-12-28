@@ -1,8 +1,26 @@
+---
+description: Authentication Techniques and Their Security Implications
+cover: ../../.gitbook/assets/(2).png
+coverY: 34
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🧞♂ API Security Cheat Sheet PART - 1
 
 Ensuring robust security in API (Application Programming Interface) interactions is crucial for safeguarding sensitive data and systems. Below is a comprehensive cheat sheet detailing various authentication scenarios and their implications for API security.
-
-### **Authentication Techniques and Their Security Implications**
 
 1.  **Basic Credentials Authentication**
 

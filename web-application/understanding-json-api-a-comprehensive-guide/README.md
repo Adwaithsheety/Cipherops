@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/100 VULN.png
+coverY: 0
+---
+
 # ☢ Understanding JSON API: A Comprehensive Guide
 
 **Introduction**

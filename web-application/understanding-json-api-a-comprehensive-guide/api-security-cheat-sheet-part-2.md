@@ -1,3 +1,9 @@
+---
+description: Extended Authentication Techniques and Their Security Implications
+cover: ../../.gitbook/assets/(3).png
+coverY: 12
+---
+
 # 🧞♀ API Security Cheat Sheet PART - 2
 
 11. **Unicode in Credentials**

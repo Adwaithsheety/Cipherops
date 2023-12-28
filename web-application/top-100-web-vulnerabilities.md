@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/100 VULN.png
+cover: ../.gitbook/assets/100 VULN (1).png
 coverY: 6
 layout:
   cover:
