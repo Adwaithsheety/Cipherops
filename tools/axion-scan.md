@@ -4,7 +4,7 @@ description: >-
   necessary dependencies installed, and Axiom-Scan integrated into your system.
 ---
 
-# Axion-Scan
+# 🪓 Axion-Scan
 
 Step 1: Clone the Axiom Repository
 

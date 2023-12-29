@@ -103,8 +103,9 @@
 
 ## ⚒ Tools
 
-* [Axion-Scan](tools/axion-scan.md)
 * [🔑 Nmap's NSE Scripts for Ethical Password Testing](tools/nmaps-nse-scripts-for-ethical-password-testing.md)
+* [🪓 Axion-Scan](tools/axion-scan.md)
+* [🕶 DalFox Tool](tools/dalfox-tool.md)
 
 ***
 
