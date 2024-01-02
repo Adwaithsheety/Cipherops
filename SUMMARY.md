@@ -1,6 +1,6 @@
 # Table of contents
 
-* [💛 Welcome](README.md)
+* [💛 Welcome to the Future of Cybersecurity](README.md)
   * [😎 Cipherops](welcome/cipherops.md)
   * [🤩 Embarking on Your Hacking Journey: A Guide for Beginners](welcome/embarking-on-your-hacking-journey-a-guide-for-beginners.md)
   * [🌏 Journeying Through the World of Ethical Hacking with Cipher-ops](welcome/journeying-through-the-world-of-ethical-hacking-with-cipher-ops.md)
