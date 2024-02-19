@@ -5,7 +5,7 @@ coverY: 0
 
 # 🤩 Embarking on Your Hacking Journey: A Guide for Beginners
 
-**Join us on this captivating journey and become part of a vibrant community passionate about ethical hacking**<mark style="color:green;">**.**</mark> Together, let's explore the fascinating world of cybersecurity, unlock new possibilities, and elevate our skills to greater heights. Embrace the thrill of hacking, share knowledge, and connect with like-minded individuals who share your passion. Join us now and embark on this beautiful journey together!
+Be a part of a vibrant community that is passionate about ethical hacking by joining us on this captivating journey. Together, we should investigate the captivating universe of network protection, open additional opportunities, and raise our abilities to more prominent levels. Embrace the adventure of hacking, share information, and interface with similar people who share your energy. Now is your chance to join us on this wonderful journey!
 
 From: [cipherops.tech](https://cipherops.tech/)
 
